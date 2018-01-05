@@ -13,5 +13,4 @@ to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
-This work is being carried out by [Andre Dada](http://prog-mine.tech ™),
-possibly, the greatest coder in the history of Rubyrails yet.
+This work is being carried out by [Andre Dada™](http://prog-mine.tech/) possibly, the greatest coder in the history of Rubyrails yet.
